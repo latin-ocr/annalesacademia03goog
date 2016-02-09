@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "annalesacademia03goog_0025.png"; bbox 0 0 1127 1494; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 491 349 525 369">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 491 349 525 369">
+     <span class='ocr_line' id='line_1_1' title="bbox 491 349 525 369; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 491 349 525 369; x_wconf 85' lang='grc' dir='ltr'>ΙΙΙ.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 433 439 586 474">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 433 439 586 474">
+     <span class='ocr_line' id='line_1_2' title="bbox 433 439 586 474; baseline 0.007 -1"><span class='ocrx_word' id='word_1_2' title='bbox 433 439 586 474; x_wconf 89' lang='lat' dir='ltr'>ACTA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 181 536 828 564">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 181 536 828 564">
+     <span class='ocr_line' id='line_1_3' title="bbox 181 536 828 564; baseline 0 -1"><span class='ocrx_word' id='word_1_3' title='bbox 181 537 218 564; x_wconf 88' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 236 536 373 564; x_wconf 88' lang='lat' dir='ltr'><strong>SENATU</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 392 536 584 564; x_wconf 86' lang='lat' dir='ltr'>ACADEMIAE</span> <span class='ocrx_word' id='word_1_6' title='bbox 601 537 828 564; x_wconf 86' lang='lat' dir='ltr'><strong>LOVANIENSIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 214 628 806 647">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 214 628 806 647">
+     <span class='ocr_line' id='line_1_4' title="bbox 214 628 806 647; baseline 0 -1"><span class='ocrx_word' id='word_1_7' title='bbox 214 628 806 647; x_wconf 61' lang='lat' dir='ltr'><strong>Anmxvocw.mnooexlxmnmuxocr.uncccxx.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
